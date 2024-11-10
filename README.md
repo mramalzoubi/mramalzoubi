@@ -224,4 +224,5 @@ class Program
         Console.WriteLine("Students above average: " + aboveAverage);
         Console.WriteLine("Students below average: " + belowAverage);
     }
+    
 }
